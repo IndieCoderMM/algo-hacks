@@ -2,9 +2,9 @@
   "name": "algo-hacks",
   "version": "1.0.0",
   "description": "collections of algorithms",
-  "main": "countRects.js",
+  "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch --verbose"
   },
   "keywords": [
     "algo",
