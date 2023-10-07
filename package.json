@@ -4,7 +4,8 @@
   "description": "collections of algorithms",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch --verbose"
+    "test": "jest",
+    "testWatch": "jest --watch --verbose"
   },
   "keywords": [
     "algo",
